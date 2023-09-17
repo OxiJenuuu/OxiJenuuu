@@ -1,5 +1,5 @@
 [![Instagram Badge](https://img.shields.io/badge/-OxiJenuuu-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/oxijenuuu)
-[![Gmail Badge](https://img.shields.io/badge/-oxijenuuu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oxijenuuu@gmail.com)](mailto:oxijenuuu@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-albu.vlad@oxidev.ro-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:albu.vlad@oxidev.ro)](mailto:albu.vlad@oxidev.ro)
 
 ##### 🎯 Projects
 - Aurora ``[Manage your team more easily]``
