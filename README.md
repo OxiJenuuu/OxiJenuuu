@@ -4,6 +4,7 @@
 ##### 🎯 Projects
 - Aurora ``[Manage your team more easily]``
 - Gamee ``[A JavaScript game using Electron & Three.js]``
+- [Aries Romania ``[A FiveM roleplay server]``](https://github.com/aries-ro)
 - COMING MORE SOON...
 
 ##### ⚡ What i use
