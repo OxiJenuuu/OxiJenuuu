@@ -2,8 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-contact@oxidev.ro-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:albu.vlad@oxidev.ro)](mailto:contact@oxidev.ro)
 
 ##### 🎯 Projects
-- Aurora ``[Manage your team more easily]``
-- Gamee ``[A JavaScript game using Electron & Three.js]``
+- BrasovMostWanted ``[A car club in romania](https://brasovmostwanted.ro/)``
 - [Aries Romania ``[A FiveM roleplay server]``](https://github.com/aries-ro)
 - COMING MORE SOON...
 
