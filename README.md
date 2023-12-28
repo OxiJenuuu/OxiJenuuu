@@ -1,6 +1,3 @@
-[![Instagram Badge](https://img.shields.io/badge/-OxiJenuuu-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/oxijenuuu)
-[![Gmail Badge](https://img.shields.io/badge/-contact@oxidev.ro-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:albu.vlad@oxidev.ro)](mailto:contact@oxidev.ro)
-
 ##### 🎯 Projects
 - [BrasovMostWanted ``[A car club in romania]``](https://brasovmostwanted.ro/)
 - [Aries Romania ``[A FiveM roleplay server]``](https://github.com/aries-ro)
