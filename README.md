@@ -21,9 +21,3 @@
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)  ![iOS](https://img.shields.io/badge/-iOS-black?style=flat-square&logo=apple)  ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
 
 ----------
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=OxiJenuuu&theme=darkhub&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-----------
