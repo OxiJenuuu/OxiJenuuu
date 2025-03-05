@@ -4,7 +4,7 @@
     
 -   🛠️ [**Aries Romania**](https://github.com/aries-ro)  _A FiveM roleplay server._  
     
--   🧠 [**iDo**](https://github.com/DeepSeek-Ollama-Interface/iDo)   _Perfect ai assistent for your pc._  
+-   🧠 [**iDo**](https://github.com/DeepSeek-Ollama-Interface/iDo)   _Perfect ai assistent for your pc._ (**Left the project**)  
     
 -   🚀 **More Projects Coming Soon...**
     
