@@ -4,6 +4,9 @@
     
 -   🛠️ [**Aries Romania**](https://github.com/aries-ro)  _A FiveM roleplay server._  
     
+-   📦 [**vite-dynamic-pages-router**](https://www.npmjs.com/package/vite-dynamic-pages-router)  
+    _Auto-page routing system for Vite + React, based on file structure and page-level config._
+    
 -   🧠 [**iDo**](https://github.com/DeepSeek-Ollama-Interface/iDo)   _Perfect ai assistent for your pc._ (**Left the project**)  
     
 -   🚀 **More Projects Coming Soon...**
