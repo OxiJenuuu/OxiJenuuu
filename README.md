@@ -1,26 +1,9 @@
-### 🎯 Projects
-
-- 🌟 [**BrasovMostWanted**](https://brasovmostwanted.ro/)  
-  _A car club in Romania._
-
-- 🛠️ [**Aries Romania**](https://github.com/aries-ro)  
-  _A FiveM roleplay server._
-
-- 📦 [**vite-dynamic-pages-router**](https://www.npmjs.com/package/vite-dynamic-pages-router)  
-  _Auto-page routing system for Vite + React, based on file structure and page-level config._
-
-- 🧠 [**iDo**](https://github.com/DeepSeek-Ollama-Interface/iDo)  
-  _Perfect AI assistant for your PC._ (**Left the project**)
-
-- 🚀 **More Projects Coming Soon...**
-    
---- 
-
 ### 🚀 **My Tech Stack & Tools**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
+![NextJs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=next.js)  
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react) 
 ![Electron](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron)  
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) 
@@ -36,5 +19,3 @@
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux) 
 ![iOS](https://img.shields.io/badge/-iOS-black?style=flat-square&logo=apple) 
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)  
-
----
